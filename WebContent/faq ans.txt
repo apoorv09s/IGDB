@@ -1,0 +1,20 @@
+1) I am having trouble logging into the site with my username/password ?
+
+At the top, in the navigation bar there's a button named Login. Click on the button and a popup box will open up. In that box there's is a option of 'Forgot your password'. Click on that. An email will be sent to you in which you will be provided by your account details.
+
+2) How do I submit my rating regarding a game ?
+
+First of all you must be a member to provider your reviews. So first Login or Register your self and then open up the page of that game corresponding to which you want to give your review. You will see a group of stars in the first block. Just hover(bring the mouse over it) and click on it.(1 star corresponds to least and 5 stars corresponds to most).
+
+3) How do I place a feedback ?
+
+Simply click on the contact button. Place your feedback in the message box and click submit. Your feedback will be evaluted and we will try to make the website more user-friendly and more informative.
+
+4) How can I watch videos/trailers on this site ?
+
+Open up the page of the corresponding game. AT the top you will a video screen on which you can catch the best video/trailer related to that game.
+
+5) How can I contact someone for help ?
+
+Click on the contact button. There will be our email information provided under the heading 'Where are we'. Email us at that address and we will get back to you regarding your queries. 
+  
